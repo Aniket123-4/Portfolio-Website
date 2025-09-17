@@ -117,9 +117,9 @@ export default function About() {
                   </h4>
                   <div className="grid grid-cols-3 gap-4">
                     {[
-                      "Java", "JavaScript", "HTML5",
-                      "CSS3", "React", "Node.js",
-                      "Express.js", "MSSQL", "MongoDB",
+                      "React", "Node.js",
+                      "Express.js", "MSSQL", "MongoDB",".Net", "JavaScript", "HTML5",
+                      "CSS3", 
                       "Git", "TailwindCSS", "Bootstrap 5"
                     ].map((skill, index) => (
                       <motion.div
